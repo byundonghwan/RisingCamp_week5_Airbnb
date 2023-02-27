@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottom_home"
+        android:title="검색"
+        android:icon = "@drawable/ic_baseline_search_24"/>
+
+    <item android:id="@+id/bottom_wish"
+        android:title="위시리스트"
+        android:icon = "@drawable/heart"/>
+
+    <item android:id="@+id/bottom_travel"
+        android:title="여행"
+        android:icon = "@drawable/airbnb"/>
+    v
+    <item android:id="@+id/bottom_message"
+        android:title="메시지함"
+        android:icon = "@drawable/message"/>
+    <item android:id="@+id/bottom_profile"
+        android:title="프로필"
+        android:icon = "@drawable/ic_baseline_person_pin_24"/>
+
+</menu>
